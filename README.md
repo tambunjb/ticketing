@@ -57,13 +57,13 @@ Additionally, there's a list of responses created by administrators.
 Finally, there are two videos demonstrating the mobile app, which includes the same features as those found on the web :
 <br /><br />
 One for general users
-<p align="center">
-<img width="60%" alt="response-index" src="https://github.com/tambunjb/ticketing/assets/22196181/49c47f31-3db8-4732-b0c4-81af4023f9c7">
+<p align="left">
+<img width="30%" alt="response-index" src="https://github.com/tambunjb/ticketing/assets/22196181/49c47f31-3db8-4732-b0c4-81af4023f9c7">
 </p>
 <br />
 And the other for administrators.
-<p align="center">
-<img width="60%" alt="response-index" src="https://github.com/tambunjb/ticketing/assets/22196181/73b3a44f-88f5-4d9e-a0f4-359f114c313c">
+<p align="left">
+<img width="30%" alt="response-index" src="https://github.com/tambunjb/ticketing/assets/22196181/73b3a44f-88f5-4d9e-a0f4-359f114c313c">
 </p>
 <br />
 That wraps up this module. It's straightforward and simple, yet extremely important for organizations seeking to manage their operations and ensure member satisfaction.
