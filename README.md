@@ -1,4 +1,6 @@
-# Ticketing
+# <span id="tjidtitle">Ticketing</span>
+
+<div>Technologies: <span id="tjidtechs">Yii2, MySQL, Java, Android</span></div>
 
 I've developed a ticketing system with two versions: one for administrators and another for general users. Each version includes both web and mobile interfaces. This module enables general users to submit tickets to different operational units within an institution, like maintenance, IT, academics, and more.
 
