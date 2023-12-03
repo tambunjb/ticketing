@@ -4,8 +4,8 @@
 <br />
 <div>Links: 
   <ul id="tjidlinks">
-    <li>https://github.com/tambunjb/ticketing</li>
-    <li>https://github.com/tambunjb/ticketing</li>
+    <li>https://github.com/tambunjb/ticketing1</li>
+    <li>https://github.com/tambunjb/ticketing2</li>
   </ul>
 </div>
 <br />
